@@ -1,5 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from 'react'; // let us write react syntax in HTML file
+import ReactDOM from 'react-dom'; // react little robot that creates virtual DOM
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
